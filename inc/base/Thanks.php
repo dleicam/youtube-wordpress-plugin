@@ -4,7 +4,7 @@
  * @package Surge
  **/
 
-namespace Inc\Base;
+namespace Inc\base;
 
 class Thanks
 {

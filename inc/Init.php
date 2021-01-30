@@ -6,7 +6,7 @@
 
 namespace Inc;
 
-use Inc\Base\Thanks;
+use Inc\base\Thanks;
 
 final class Init
 {
