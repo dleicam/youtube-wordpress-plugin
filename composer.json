@@ -1,0 +1,12 @@
+{
+    "name": "surge/wordpress-plugin",
+    "description": "Esqueleto de um plugin para o wordpress",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SURGE",
+            "email": "geral@surge.pt"
+        }
+    ],
+    "require": {}
+}
